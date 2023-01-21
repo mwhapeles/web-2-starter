@@ -8,3 +8,5 @@ Starter (boilerplate) for all future projects.
 * Don't start with blank files 
 *Common boilerplate for web projects
 * I am a human being who makes mistakes 
+
+## Citations ![web2starter](https://user-images.githubusercontent.com/114778814/213894232-600b53e1-e13f-4d7f-af2a-09cf9a9440ee.jpg)
